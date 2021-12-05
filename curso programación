@@ -1,1 +1,56 @@
-# cursop
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Las 7 maravillas del mundo</title>
+    <link rel="stylesheet" href="decoracion.css">
+    <link rel="shortcut icon" type="image/png" href="imagenes2.0/favicon.ico">
+    
+</head>
+<body>
+    <div>
+        <header>
+            <img src="imagenes2.0/titulo.png" alt="Chichen Itza" height="80 x 80px"> Las 7 maravillas del mundo
+            
+        </header>
+    </div>
+</br>
+    <h1>Las 7 maravillas del mundo moderno</h1>
+    <p>Las 7 maravillas del mundo son edificios casi legendarios que han marcado el alma del hombre, calando incluso en su lenguaje. Esta clasificación reconoce las proezas técnicas del mundo antiguo, así como las construcciones del hombre dotadas de una belleza o de una grandeza impresionante que impregna el imaginario de los hombres de una fascinación que perdura aún en la actualidad.</p>
+    <h2>El mundo moderno</h2>
+    <p>Las nuevas 7 maravillas del mundo son siete monumentos existentes en la actualidad que se consideran parte de la memoria global. Estos son: la estatua del Cristo Redentor, las ruinas de Machu Picchu, la gran muralla china, la ciudad de Petra, el palacio del Taj Mahal, el Coliseo romano y la ciudad de Chichen Itzá. Se conocen también como las Siete Maravillas del Mundo Moderno.</p>
+    <p>El número 7 se mantuvo tanto porque rinde homenaje a las siete maravillas de la antigüedad, como porque el 7 simboliza la perfección. Además, algunos estudios sugieren que siete es el número de cosas que el cerebro humano puede recordar. El Día Internacional de las Siete Maravillas del Mundo Moderno se celebra el 7 de julio, fecha en que se dieron a conocer los monumentos ganadores de este reconocimiento en el año 2007.</p>
+    <h2>¿Cómo se escogieron?</h2>
+    <p>La elección de las siete maravillas del mundo actual se hizo por medio de un concurso público internacional convocado por el suizo Bernard Weber. Para ello, Weber creó la fundación New7Wonders, encargada de la organización del concurso. Además de la elección de las siete maravillas, el proyecto incluiría (e incluye actualmente) diferentes campañas por la elección de siete maravillas naturales, siete símbolos de unidad, siete símbolos de paz, etc.</p>
+    <p>La campaña de las Nuevas Siete Maravillas del Mundo se puso en marcha en 1999. Los monumentos candidatos debían cumplir con dos requisitos: haber sido construidos antes del año 2000 y permanecer en pie en la actualidad. Las votaciones se realizaron por correo electrónico y telefonía celular, tanto por llamada como por SMS.</p>
+    <p>A partir de una muy amplia lista inicial, se definió una lista de 77 monumentos. La última ronda permitió al público elegir entre 21 maravillas (21 por ser múltiplo de 7). Se generaron unos cien millones de votos en total. Los 21 finalistas fueron:</p>
+    <ol>
+    <li>Cristo Redentor, Río de Janeiro, Brasil</li>
+    <li>Machu Picchu, Cuzco, Perú</li>
+    <li>Gran Muralla, China</li>
+    <li>Petra, Jordania</li>
+    <li>Taj Mahal, India</li>
+    <li>Coliseo de Roma, Italia</li>
+    <li>Chichen Itzá, México</li>
+    <li>Torre Eiffel, Francia</li>
+    <li>Stonehenge, Reino Unido</li>
+    <li>Kiyomizu-dera, Japón</li>
+    <li>El castillo de Neuschwanstein, Alemania</li>
+    <li>Kremlin, Catedral de San Basilio y la Plaza Roja de Moscú, Rusia</li>
+    <li>Pirámides de Guiza, Egipto</li>
+    <li>Alhambra, España</li>
+    <li>La Casa de la Ópera de Sydney, Australia</li>
+    <li>Estatuas Moai de la Isla de Pascua, Chile</li>
+    <li>Angkor Wat, Camboya</li>
+    <li>Acrópolis de Atenas, Grecia</li>
+    <li>Tombuctú, Malí</li>
+    <li>Iglesia de Santa Sofía, Turquía</li>
+    <li>Estatua de la Libertad, Estados Unidos</li>
+    </ol>
+    <script>
+
+    </script>
+</body>
+</html>
